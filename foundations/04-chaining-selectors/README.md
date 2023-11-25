@@ -9,7 +9,7 @@ We have two images for you to style, each with two class names, where one of the
 
 **Note:** Download and group the images in a separate "images" folder. Ensure correct image source paths in your HTML to avoid image loading issues. This is crucial for a cleaner project structure.
 
-The properties you need to add to each element are:
+The properties you need to add to each element are: 
 
 * Make the element with both the `avatar` and `proportioned` classes 300 pixels wide, then give it a height so that it retains its original square proportions (don't hardcode in a pixel value for the height!).
 * Make the element with both the `avatar` and `distorted` classes 200 pixels wide, then make its height twice as big as its width (here you should hardcode in a pixel value).
